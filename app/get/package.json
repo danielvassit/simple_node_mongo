@@ -1,0 +1,16 @@
+{
+  "name": "get_all_documents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get_all_documents.js",
+  "scripts": {
+    "start": "node get_all_documents.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^2.2.26"
+  }
+}
